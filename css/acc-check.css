@@ -1,0 +1,21 @@
+*, ::before, ::after{
+    box-sizing: border-box;
+}
+div{
+    display: block;
+}
+body{
+    color: rgba(0, 0, 0, .8);
+    line-height: 1.2;
+}
+img{
+    border: 0;
+}
+li{
+    display: list-item;
+    text-align: -webkit-match-parent;
+}
+label{
+    cursor: default;
+}
+
